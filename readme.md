@@ -27,6 +27,7 @@ Every link here was checked and resolves at the time of writing.
 ## Window manager
 
 - [komorebi](https://github.com/LGUG2Z/komorebi) - The tiling window manager itself, bundling the `komorebic` CLI and the `komorebi-bar` status bar.
+- [komorebi-for-mac](https://github.com/LGUG2Z/komorebi-for-mac) - First-party port of the tiling window manager to macOS.
 
 ## Status bars
 
@@ -53,7 +54,7 @@ Every link here was checked and resolves at the time of writing.
 
 - [Built-in themes](https://komorebi.lgug2z.com/usage/themes/) - Docs for applying the bundled Catppuccin and Base16 themes to borders and the bar.
 - [Catppuccin](https://github.com/catppuccin/catppuccin) - Pastel theme (Latte, Frappé, Macchiato, Mocha) supported natively for borders and the bar.
-- [tacky-borders](https://github.com/lukeyou05/tacky-borders) - Customizable animated window borders for Windows 10 and 11.
+- [tacky-borders](https://github.com/luke-you/tacky-borders) - Customizable animated window borders for Windows 10 and 11.
 - [Tinted Theming](https://github.com/tinted-theming/home) - Base16/Base24 scheme system; the bundled Base16 themes come from here.
 - [Tinty](https://github.com/tinted-theming/tinty) - Base16/Base24 color-scheme manager for theming many apps at once.
 - [yasb-themes](https://github.com/amnweb/yasb-themes) - Community gallery of ready-made themes for the YASB bar.
@@ -67,12 +68,14 @@ Every link here was checked and resolves at the time of writing.
 - [KomorebiShellExtension](https://github.com/Zira3l137/KomorebiShellExtension) - Windows right-click (shell) menu for managing the window manager.
 - [masir](https://github.com/LGUG2Z/masir) - First-party focus-follows-mouse daemon for Windows 11 and later.
 - [streamdeck-komorebi](https://github.com/kdeenanauth/streamdeck-komorebi) - Elgato Stream Deck plugin that shows state and sends commands.
+- [Ulanzi Window Control](https://github.com/brendanwelsh/ulanzi-window-control) - Ulanzi Studio plugin for window focus and tiling controls from a dial.
 - [wpm](https://github.com/LGUG2Z/wpm) - First-party process manager for autostarting the window manager and its companions.
 
 ## Configuration
 
 - [komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) - First-party curated per-application rules so more apps tile correctly out of the box.
 - [komorebi-custom-layout-generator](https://github.com/LGUG2Z/komorebi-custom-layout-generator) - First-party interactive tool to generate custom layouts as JSON.
+- [komorice](https://github.com/alex-ds13/komorice) - GUI configurator for ricing the window manager.
 
 ## Libraries
 
@@ -114,9 +117,12 @@ Every link here was checked and resolves at the time of writing.
 
 ## Alternative window managers
 
+- [Astur](https://github.com/Page011/Astur) - Single-executable tiling window manager for Windows with master-stack layouts and nine workspaces (Rust).
 - [FancyWM](https://github.com/FancyWM/fancywm) - Dynamic tiling window manager for Windows focused on zero-config use (C#).
 - [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager for Windows inspired by i3, paired with the Zebar bar (Rust).
 - [Jwno](https://github.com/agent-kilo/jwno) - Tiling window manager for Windows scriptable in Janet (Lisp).
+- [OpenNiri-Windows](https://github.com/AdEx-Partners-DE/OpenNiri-Windows) - Scrollable tiling window manager for Windows 10 and 11 in the style of Niri (Rust).
+- [Seelen UI](https://github.com/eythaann/Seelen-UI) - Customizable desktop environment for Windows 10 and 11 with built-in tiling.
 - [Whim](https://github.com/dalyIsaac/Whim) - Pluggable dynamic window manager with swappable layout engines (C#, alpha).
 - [workspacer](https://github.com/workspacer/workspacer) - Tiling window manager configured in C#, in the style of dwm, i3, and xmonad (maintenance mode).
 
